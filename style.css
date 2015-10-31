@@ -1,0 +1,14 @@
+div {
+  /*border: 1px solid blue;*/
+  font-family: cursive;
+  text-align: center;
+}
+
+#section1 {
+  background-color: rgba(105, 54, 203, 0.54);
+  height: 50vh;
+}
+
+img {
+  margin: 0 auto;
+}
